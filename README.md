@@ -1,3 +1,26 @@
+## dynamixel_sdk (kinetic) - 3.7.11-1
+
+The packages in the `dynamixel_sdk` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release dynamixel_sdk -t kinetic -r kinetic --edit` on `Mon, 19 Aug 2019 11:22:11 -0000`
+
+The `dynamixel_sdk` package was released.
+
+Version of package(s) in repository `dynamixel_sdk`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+- release repository: https://github.com/ROBOTIS-GIT-release/DynamixelSDK-release.git
+- rosdistro version: `3.7.0-0`
+- old version: `3.7.0-0`
+- new version: `3.7.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_sdk (melodic) - 3.7.0-0
 
 The packages in the `dynamixel_sdk` repository were released into the `melodic` distro by running `/usr/bin/bloom-release dynamixel_sdk -t melodic -r melodic --edit` on `Fri, 04 Jan 2019 00:47:22 -0000`
