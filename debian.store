@@ -1,1 +1,1 @@
-{"trim": "", "base": "0559e03", "trimbase": "", "parent": "debian/noetic/dynamixel_sdk", "previous": "66d3149"}
+{"base": "45c33ac", "parent": "debian/noetic/dynamixel_sdk", "previous": "3f5b555", "trim": "", "trimbase": ""}
