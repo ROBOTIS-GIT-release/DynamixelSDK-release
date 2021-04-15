@@ -1,3 +1,28 @@
+## dynamixel_sdk (melodic) - 3.7.51-2
+
+The packages in the `dynamixel_sdk` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic dynamixel_sdk` on `Thu, 15 Apr 2021 04:57:34 -0000`
+
+These packages were released:
+- `dynamixel_sdk`
+- `dynamixel_sdk_examples`
+
+Version of package(s) in repository `dynamixel_sdk`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+- release repository: https://github.com/ROBOTIS-GIT-release/DynamixelSDK-release.git
+- rosdistro version: `3.7.31-1`
+- old version: `3.7.51-1`
+- new version: `3.7.51-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.6`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_sdk (melodic) - 3.7.51-1
 
 The packages in the `dynamixel_sdk` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic dynamixel_sdk` on `Thu, 15 Apr 2021 04:49:31 -0000`
