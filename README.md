@@ -1,3 +1,28 @@
+## dynamixel_sdk (noetic) - 3.8.0-1
+
+The packages in the `dynamixel_sdk` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dynamixel_sdk -t noetic -r noetic --edit` on `Wed, 12 Feb 2025 11:59:53 -0000`
+
+These packages were released:
+- `dynamixel_sdk`
+- `dynamixel_sdk_examples`
+
+Version of package(s) in repository `dynamixel_sdk`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+- release repository: https://github.com/ROBOTIS-GIT-release/DynamixelSDK-release.git
+- rosdistro version: `3.7.51-4`
+- old version: `3.7.51-4`
+- new version: `3.8.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_sdk (noetic) - 3.7.51-4
 
 The packages in the `dynamixel_sdk` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic dynamixel_sdk --edit` on `Thu, 15 Apr 2021 06:22:42 -0000`
