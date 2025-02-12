@@ -1,7 +1,7 @@
 ################################################################################
 # Set minimum required version of cmake, project name and compile options
 ################################################################################
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(dynamixel_sdk)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
@@ -53,6 +53,9 @@ if(APPLE)
     src/dynamixel_sdk/group_bulk_write.cpp
     src/dynamixel_sdk/port_handler.cpp
     src/dynamixel_sdk/port_handler_mac.cpp
+    src/dynamixel_sdk/group_fast_bulk_read.cpp
+    src/dynamixel_sdk/group_fast_sync_read.cpp
+    src/dynamixel_sdk/group_handler.cpp
   )
 else()
   add_library(dynamixel_sdk
@@ -65,6 +68,9 @@ else()
     src/dynamixel_sdk/group_bulk_write.cpp
     src/dynamixel_sdk/port_handler.cpp
     src/dynamixel_sdk/port_handler_linux.cpp
+    src/dynamixel_sdk/group_fast_bulk_read.cpp
+    src/dynamixel_sdk/group_fast_sync_read.cpp
+    src/dynamixel_sdk/group_handler.cpp
   )
 endif()
 
