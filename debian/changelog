@@ -1,0 +1,15 @@
+ros-noetic-dynamixel-sdk-examples (3.8.0-1focal) focal; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Tue, 11 Feb 2025 15:00:00 -0000
+
+ros-noetic-dynamixel-sdk-examples (3.7.41-1focal) focal; urgency=high
+
+  * DYNAMIXEL SDK ROS example initial commit.
+  * Bug fix for 4.5Mbps support (#430)
+  * Contributors: Zerom, Will Son
+
+ -- Pyo <pyo@robotis.com>  Tue, 11 Aug 2020 15:00:00 -0000
+
+
